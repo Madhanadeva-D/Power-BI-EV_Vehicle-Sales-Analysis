@@ -11,7 +11,7 @@ The objective is to transform raw EV data into meaningful business insights usin
 
 ## 📊 Dashboard Output
 
-<img width="1365" height="740" alt="Screenshot 2026-02-24 210821" src="https://github.com/user-attachments/assets/bc711ab5-96b9-4fb3-be15-de023cc707e7" />
+<img width="1365" height="740" alt="Screenshot 2026-02-24 210821" src="https://github.com/user-attachments/assets/f89367f0-7e23-4096-8bfa-c451e9195702" />
 
 > Interactive Tableau dashboard showing KPIs, EV growth trends, state-wise distribution, top manufacturers, CAFV eligibility, and top models.
 
